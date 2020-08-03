@@ -1,8 +1,9 @@
 package pardano
 
 import (
-	"github.com/tiaguinho/gosoap"
 	"strings"
+
+	"github.com/tiaguinho/gosoap"
 )
 
 type VerifyPayment struct {

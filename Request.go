@@ -1,9 +1,10 @@
 package pardano
 
 import (
-	"github.com/tiaguinho/gosoap"
 	"strconv"
 	"strings"
+
+	"github.com/tiaguinho/gosoap"
 )
 
 type RequestPayment struct {
