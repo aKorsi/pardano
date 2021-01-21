@@ -1,4 +1,4 @@
-module akorsi/pardano
+module github.com/aKorsi/pardano
 
 go 1.13
 
